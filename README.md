@@ -19,9 +19,7 @@ website analytics, scripts or external fonts.
 
 ## Required before commercial release
 
-- Replace the temporary public GitHub Issues contact method in the privacy
-  policy with a dedicated **public studio privacy/support email**. Never publish
-  a personal email without explicit permission.
+- Public studio support and privacy contact: `lohkforgedstudios@gmail.com`.
 - Revisit the privacy policy and game age targeting once the live AdMob and
   Google Play Billing implementations are final. Match declarations to the
   actual SDKs and Play Console Data Safety responses.
